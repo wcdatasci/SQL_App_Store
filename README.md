@@ -1,3 +1,2 @@
 # SQL_App_Store
-Dataset of Apple App store ratings
-Goal of this project is to perform exploratory data analysis and find insights on what gives an app a high rating.
+In this SQL project, using the datasets of Applestore App ratings and description tables I performed exploratory data analysis to find insights on what gives an app a high rating.
